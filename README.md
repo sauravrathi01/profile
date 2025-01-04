@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Rathi</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=sauravrathi01&label=Profile%20views&color=0e75b6&style=flat" alt="sauravrathi01" />
-</p>
+
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
   <!-- Left content (email and experience link) -->
