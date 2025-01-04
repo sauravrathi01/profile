@@ -13,7 +13,7 @@
   <!-- Right content (GIF) -->
   <div>
     <h3 align="left" style="margin-top: 50px;">Connect with me:</h3>
-    <img align="left" alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+    <img align="right" alt="Coder GIF" height="150" width="250" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
   </div>
 </div>
 
@@ -63,6 +63,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
+</br>
 </br>
 <div align="left" style="margin-top: 30px;">
   <p>
