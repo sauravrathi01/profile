@@ -12,11 +12,12 @@
 
   <!-- Right content (GIF) -->
   <div>
-    <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+    <h3 align="left" style="margin-top: 50px;">Connect with me:</h3>
+    <img align="left" alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
   </div>
 </div>
 
-<h3 align="left" style="margin-top: 50px;">Connect with me:</h3>
+
 <p align="left" style="margin-bottom: 30px;">
   <a href="https://linkedin.com/in/sauravrathi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravrathi" height="30" width="40" />
